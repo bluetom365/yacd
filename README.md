@@ -44,3 +44,6 @@ pnpm start
 # ready to deploy assets will be in the directory `public`
 pnpm build
 ```
+
+# to be noticed
+  use "pnpm" as package tool, works well, if you use "yarn" or "npm" as package tool to try to install, you will get many warning. 

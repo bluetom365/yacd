@@ -46,4 +46,5 @@ pnpm build
 ```
 
 # to be noticed
-  use "pnpm" as package tool, works well, if you use "yarn" or "npm" as package tool to try to install, you will get many warning. 
+ 1) use "pnpm" as package tool, works well, if you use "yarn" or "npm" as package tool to try to install, you will get many warning. 
+ 2) when you add new clash node, use this URL style "http://192.168.1.1:9001", DO NOT add "end slash /", "http://192.168.1.1:9001/" (ERROR will shown)
